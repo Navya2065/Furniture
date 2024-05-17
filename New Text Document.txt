@@ -2,3 +2,4 @@ There are two chairs.
 hello 
 how are you
 we have new furniture
+yay
